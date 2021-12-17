@@ -17,6 +17,7 @@ LOCAL_STATIC_ANDROID_LIBRARIES := \
     androidx.preference_preference \
     androidx.recyclerview_recyclerview \
     androidx-constraintlayout_constraintlayout \
+    androidx.swiperefreshlayout_swiperefreshlayout \
     SettingsLib
 
 LOCAL_RESOURCE_DIR := \
